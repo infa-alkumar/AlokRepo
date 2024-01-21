@@ -3,3 +3,8 @@ Print ("Hello")
 Print "India"
 Print "Alok"
 Print "New Branch"
+<<<<<<< Updated upstream
+=======
+Print "Alok Kumar"
+Print "Alok1"
+>>>>>>> Stashed changes
